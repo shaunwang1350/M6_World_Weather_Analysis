@@ -1,4 +1,4 @@
-# M6_World_Weather_Analysis
+# World_Weather_Analysis
 
 ## Summary
 Task: Collect and analyze weather data across cities worldwide.
